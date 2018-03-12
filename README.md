@@ -1,4 +1,4 @@
-# [BDReborn V6 (Final Version)](https://telegram.me/BDReborn)
+# [BDReborn V6 (Final Version)]
 
 **An advanced and powerful administration bot based on NEW TG-CLI
 
